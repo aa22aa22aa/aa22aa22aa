@@ -1,7 +1,7 @@
 # Mi Presentación
 
 ### Sobre mí:
-* Nombre: Alejandro Sánchez Cabrera
+* Nombre: Alejandro Sánchez
 * Edad: 18 años
 * Titulaciones obtenidas: Titulo de FP media de Sistemas Microinformaticos y Redes
 * Residencia: España/Malaga
