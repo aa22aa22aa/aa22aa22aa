@@ -1,16 +1,27 @@
-## Hi there 👋
+# Mi Presentación
 
-<!--
-**aa22aa22aa/aa22aa22aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mí:
+* Nombre: Alejandro Sánchez Cabrera
+* Edad: 18 años
+* Titulaciones obtenidas: Titulo de FP media de Sistemas Microinformaticos y Redes
+* Residencia: España/Malaga
 
-Here are some ideas to get you started:
+### Mis conocimientos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+La mayoria de mis conocimientos son entorno al desarrollo de __*HTML*__ y un poco de __*Java*__, aprendido durante el **curso de FP**.  
+
+Tambien he trabajado muchisimo con sistemas _**Windows**_ y _**Linux**_, donde a parte de instalar estos sistemas en multitud de ocasiones, tambien he trabajado sobre ellos usando _**MySQL**_ entre otros.
+
+![](https://www.epitech-it.es/wp-content/uploads/2024/02/pexels-pixabay-270404.jpg)
+
+### Tabla de actividades importantes realizadas durante mi curso
+
+| En la FP media  | En las Prácticas |
+| ------------- |-------------|
+| Desarrollo de servidores web      | Montaje y mantenimiento de equipos fisicos     |
+| Trabajo con MySQL en Linux y Windows      |  Mantenimiento y limpieza de sistemas operativos    |
+| Creación de multiples archivos .html      | Administrar y solucionar problemas de cableado     |
+
+### Link a un video sobre Markdown
+
+Información sobre [Markdown](https://www.youtube.com/watch?v=_hI14xuvQag).
